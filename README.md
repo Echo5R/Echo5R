@@ -1,4 +1,4 @@
-I’m Tyler
+#I’m Tyler
 
 I’m an AWS Certified Cloud Practitioner transitioning into DevOps / CloudOps, with a strong background in troubleshooting, system reliability, and operational leadership.
 
