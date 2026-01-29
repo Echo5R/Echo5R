@@ -32,20 +32,14 @@ Comfortable owning systems end-to-end in high-pressure environments
 ##
 ### 🛠 Tech Stack
 
-💻 Languages
-Python • SQL • HCL
+Languages: Python • SQL • HCL
 
-☁️ Cloud & DevOps
-AWS • Linux • Docker • Terraform
+Cloud & DevOps: AWS • Linux • Docker • Terraform
 
-🧠 Backend
-Python • REST APIs • Flask • FastAPI
+Backend: Python • REST APIs • Flask • FastAPI
 
-🗄 Databases
-PostgreSQL • MySQL • MongoDB • Redis
+Databases: PostgreSQL • MySQL • MongoDB • Redis
 
-🛠 Tools & Practices
-Git • Bash • Monitoring & Logging • Troubleshooting • Documentation
+Tools & Practices: Git • Bash • Monitoring & Logging • Troubleshooting • Documentation
 
-🔍 Operational Focus
-Incident Response • Root-Cause Analysis • Reliability • Automation
+Operational Focus: Incident Response • Root-Cause Analysis • Reliability • Automation
