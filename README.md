@@ -28,4 +28,7 @@ Reliability and preventative maintenance mindset
 
 Leadership and teamwork from the U.S. Marine Corps
 
- Comfortable owning systems end-to-end in high-pressure environments
+Comfortable owning systems end-to-end in high-pressure environments
+
+# 🛠 Tech Stack
+Languages: Python, SQL, HCL
