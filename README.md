@@ -32,3 +32,5 @@ Comfortable owning systems end-to-end in high-pressure environments
 
 # 🛠 Tech Stack
 Languages: Python, SQL, HCL
+
+### Backend:
