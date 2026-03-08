@@ -1,8 +1,8 @@
 # I’m Tyler
 
-I’m an AWS Certified Cloud Practitioner transitioning into DevOps / CloudOps, with a strong background in troubleshooting, system reliability, and operational leadership.
+I bring a strong background in troubleshooting, system reliability, and operational leadership.
 
-Before moving into cloud and backend development, I spent nearly a decade working hands-on with complex, mission-critical systems — diagnosing failures, restoring uptime, and preventing repeat issues. That same mindset now drives how I approach cloud infrastructure and backend systems: observe, isolate, fix, automate, and improve.
+Before moving into cloud and backend development, I spent a decade working hands-on with complex, mission-critical systems — diagnosing failures, restoring uptime, and preventing repeat issues. That same mindset now drives how I approach cloud infrastructure and backend systems: observe, isolate, fix, automate, and improve.
 ## 
 ### 🔧 What I Focus On
 
@@ -20,7 +20,7 @@ AWS Certified Cloud Practitioner
 
 IBM Backend Developer Professional Certificate
 ## 
-### 🧠 Background That Transfers to DevOps
+### 🧠 Background That Transfers
 
 Deep troubleshooting and root-cause analysis experience
 
@@ -38,8 +38,8 @@ Cloud & DevOps: AWS • Linux • Docker • Terraform
 
 Backend: Python • REST APIs • Flask • FastAPI
 
-Databases: PostgreSQL • MySQL • MongoDB • Redis
+Databases: PostgreSQL • MySQL • MongoDB
 
 Tools & Practices: Git • Bash • Monitoring & Logging • Troubleshooting • Documentation
 
-Operational Focus: Incident Response • Root-Cause Analysis • Reliability • Automation
+Operational Focus: Security • Incident Response • Root-Cause Analysis • Reliability • Automation
