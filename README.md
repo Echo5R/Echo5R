@@ -16,7 +16,11 @@ Clear documentation and operational ownership
 ## 
 ### 🎓 Certifications
 
+Google Cybersecurity
+
 AWS Certified Cloud Practitioner
+
+AWS Cloud Technology Consultant
 
 IBM Backend Developer Professional Certificate
 ## 
